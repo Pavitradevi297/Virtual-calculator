@@ -9,13 +9,6 @@ Keyboard and mouse input support
 
 Error handling for invalid operations (like division by zero)
 
-Project Structure
-virtual-calculator
-├── calculator.py         # Main Python script
-├── gui.py                # (Optional) GUI implementation
-├── requirements.txt      # (Optional) List of external dependencies
-└── README.md             # Project documentation
-
 Run the calculator:
 python calculator.py
 
